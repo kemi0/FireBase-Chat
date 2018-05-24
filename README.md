@@ -1,6 +1,6 @@
-# React Starter
+# FireBase Chat Application 
 
-> This repo contains boilerplate code to aid in the creation of a new React app with Redux. Follow the below setup instructions to get started.
+> A simple chat application built utlizing ReactJS, ReduxJS, Firebase
 
 ### Setup Instructions
 
